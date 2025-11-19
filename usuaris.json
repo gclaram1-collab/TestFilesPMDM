@@ -1,0 +1,15 @@
+[
+  { "nom": "Marc", "edat": 30, "correu": "marc@example.com" },
+  { "nom": "Laia", "edat": 25, "correu": "laia@example.com" },
+  { "nom": "Jordi", "edat": 40, "correu": "jordi@example.com" },
+  { "nom": "Arnau", "edat": 28, "correu": "arnau@example.com" },
+  { "nom": "Carla", "edat": 22, "correu": "carla@example.com" },
+  { "nom": "Núria", "edat": 35, "correu": "nuria@example.com" },
+  { "nom": "Pol", "edat": 31, "correu": "pol@example.com" },
+  { "nom": "Adrià", "edat": 27, "correu": "adria@example.com" },
+  { "nom": "Berta", "edat": 29, "correu": "berta@example.com" },
+  { "nom": "Dídac", "edat": 33, "correu": "didac@example.com" },
+  { "nom": "Mireia", "edat": 26, "correu": "mireia@example.com" },
+  { "nom": "Oriol", "edat": 38, "correu": "oriol@example.com" },
+  { "nom": "Sílvia", "edat": 24, "correu": "silvia@example.com" }
+]
