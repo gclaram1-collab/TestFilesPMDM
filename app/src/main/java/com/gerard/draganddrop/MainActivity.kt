@@ -64,7 +64,7 @@ fun DragImageScreen(modifier: Modifier = Modifier) {
     // una altra opció seria: (pero s'acostuma a fer com a dalt).
     // var offsetX by rememberSaveable { mutableStateOf(0f) }
     // var offsetY by rememberSaveable { mutableStateOf(0f) }
-    //
+    // patata
 
     // 2. Contenidor principal
     Box(
