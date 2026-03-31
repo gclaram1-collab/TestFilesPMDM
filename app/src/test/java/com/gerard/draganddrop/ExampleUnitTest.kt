@@ -17,6 +17,6 @@ class ExampleUnitTest {
     @Test
     fun name_isCorrect() {
         assertEquals("Juan", returnName("Juan"))
-        assertEquals(4, 2 + 2)
+        assertEquals(4, 3 + 2)
     }
 }
